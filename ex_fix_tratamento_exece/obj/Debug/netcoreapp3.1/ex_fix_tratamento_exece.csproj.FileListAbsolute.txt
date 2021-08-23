@@ -1,0 +1,14 @@
+C:\Users\iaritzza.moura\Documents\Testes\ex_fix_tratamento_exece\ex_fix_tratamento_exece\obj\Debug\netcoreapp3.1\ex_fix_tratamento_exece.csproj.AssemblyReference.cache
+C:\Users\iaritzza.moura\Documents\Testes\ex_fix_tratamento_exece\ex_fix_tratamento_exece\obj\Debug\netcoreapp3.1\ex_fix_tratamento_exece.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iaritzza.moura\Documents\Testes\ex_fix_tratamento_exece\ex_fix_tratamento_exece\obj\Debug\netcoreapp3.1\ex_fix_tratamento_exece.AssemblyInfoInputs.cache
+C:\Users\iaritzza.moura\Documents\Testes\ex_fix_tratamento_exece\ex_fix_tratamento_exece\obj\Debug\netcoreapp3.1\ex_fix_tratamento_exece.AssemblyInfo.cs
+C:\Users\iaritzza.moura\Documents\Testes\ex_fix_tratamento_exece\ex_fix_tratamento_exece\obj\Debug\netcoreapp3.1\ex_fix_tratamento_exece.csproj.CoreCompileInputs.cache
+C:\Users\iaritzza.moura\Documents\Testes\ex_fix_tratamento_exece\ex_fix_tratamento_exece\bin\Debug\netcoreapp3.1\ex_fix_tratamento_exece.exe
+C:\Users\iaritzza.moura\Documents\Testes\ex_fix_tratamento_exece\ex_fix_tratamento_exece\bin\Debug\netcoreapp3.1\ex_fix_tratamento_exece.deps.json
+C:\Users\iaritzza.moura\Documents\Testes\ex_fix_tratamento_exece\ex_fix_tratamento_exece\bin\Debug\netcoreapp3.1\ex_fix_tratamento_exece.runtimeconfig.json
+C:\Users\iaritzza.moura\Documents\Testes\ex_fix_tratamento_exece\ex_fix_tratamento_exece\bin\Debug\netcoreapp3.1\ex_fix_tratamento_exece.runtimeconfig.dev.json
+C:\Users\iaritzza.moura\Documents\Testes\ex_fix_tratamento_exece\ex_fix_tratamento_exece\bin\Debug\netcoreapp3.1\ex_fix_tratamento_exece.dll
+C:\Users\iaritzza.moura\Documents\Testes\ex_fix_tratamento_exece\ex_fix_tratamento_exece\bin\Debug\netcoreapp3.1\ex_fix_tratamento_exece.pdb
+C:\Users\iaritzza.moura\Documents\Testes\ex_fix_tratamento_exece\ex_fix_tratamento_exece\obj\Debug\netcoreapp3.1\ex_fix_tratamento_exece.dll
+C:\Users\iaritzza.moura\Documents\Testes\ex_fix_tratamento_exece\ex_fix_tratamento_exece\obj\Debug\netcoreapp3.1\ex_fix_tratamento_exece.pdb
+C:\Users\iaritzza.moura\Documents\Testes\ex_fix_tratamento_exece\ex_fix_tratamento_exece\obj\Debug\netcoreapp3.1\ex_fix_tratamento_exece.genruntimeconfig.cache
